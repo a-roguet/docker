@@ -12,7 +12,7 @@ Go to the repository
 ```cd docker_r_dashboard```
 
 
-Build the r docker (dashboard)
+Build the r docker. It may take a while...
 
 ```docker build r -t r/dashboard:lastest```
 
